@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<svg class="icon" aria-hidden="true">
+	<use xlink:href="#"></use>
+</svg>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>svgicon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

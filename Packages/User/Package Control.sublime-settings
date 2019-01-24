@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://cst.stu.126.net/u/json/cms/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"CSS3",
+		"Emmet",
+		"Function Name Display",
+		"GBK Support",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublime wxapp",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets",
+		"wxapp"
+	]
+}
